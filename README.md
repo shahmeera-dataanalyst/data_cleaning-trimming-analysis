@@ -1,0 +1,1 @@
+I have cleaned a data set from august records given while learning python and libraries for cleaning. After reading I figured out the data types and glitch in specific column fixed those glithches and empty values using different functions and logical codes of python and finally the set is clean and ready for analysis
